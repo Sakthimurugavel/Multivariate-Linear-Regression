@@ -42,9 +42,5 @@ print("Predicted CO2 emission based on weight")
 ## Output:
 ![OUTPUT](Screenshot_20230126_123828.png)
 
-### Insert your output
-
-<br>
-
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
